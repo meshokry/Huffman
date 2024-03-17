@@ -118,7 +118,7 @@ int main()
     int number_of_inputs,column,row;
 
 /*Taking number of inputs from user*/
-    printf("Enters number of values\n");
+    printf("Enter number of values\n");
     scanf("%d",&number_of_inputs);
 
 /*creating the seed of the table*/
